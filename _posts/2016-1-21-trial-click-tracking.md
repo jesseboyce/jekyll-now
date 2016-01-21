@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: TRIAL OF EXTERNAL LINK TRACKING
 ---
 
 <a href="http://www.facebook.com/">TRIAL OF EXTERNAL LINK TRACKING</a>
