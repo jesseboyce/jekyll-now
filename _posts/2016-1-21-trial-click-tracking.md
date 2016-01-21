@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OxpXpHW8M1c" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.facebook.com/">TRIAL OF EXTERNAL LINK TRACKING</a>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
