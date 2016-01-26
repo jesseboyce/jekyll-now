@@ -3,7 +3,7 @@ layout: post
 title: TRIAL OF EXTERNAL LINK TRACKING
 ---
 
-<a href="http://www.facebook.com/" onclick="dataLayer.push({'testCategory': 'Works'});">TRIAL OF EXTERNAL LINK TRACKING</a>
+<a href="http://www.facebook.com/" onclick="_gaq.push(['_trackEvent', 'Header_Navigation', 'Click', 'Header_Navigation_Learn']);">TRIAL OF EXTERNAL LINK TRACKING</a>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
