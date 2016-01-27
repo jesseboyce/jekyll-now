@@ -3,7 +3,7 @@ layout: post
 title: TRIAL OF EXTERNAL LINK TRACKING
 ---
 
-<a href="http://www.facebook.com/" onClick=”ga(‘send’, ‘event’,’external link’, ‘facebook’);“>TRIAL OF EXTERNAL LINK TRACKING</a>
+<a href="http://www.facebook.com/" onClick=ga(‘send’, ‘event’,’external link’, ‘facebook’);>TRIAL OF EXTERNAL LINK TRACKING</a>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
