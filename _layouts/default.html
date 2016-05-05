@@ -49,8 +49,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/" onclick="dataLayer.push({
+            'TestLinkClick':'BlogHeaderLink'})";>Blog</a>
+            <a href="{{ site.baseurl }}/about" onclick="dataLayer.push({
+            'TestLinkClick':'AboutHeaderLink'})";>About</a>
           </nav>
         </header>
       </div>
